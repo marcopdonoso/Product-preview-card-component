@@ -35,7 +35,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### What I learned
 
-One thing that I learn doing this project by using only CSS custom properties and without Flexbox near Grid, is to centering elements using a combination of absolute positioning and the transform property with translate function.
+One thing I learned doing this project, using only CSS custom properties and no Flexbox or Grid, is to center elements using a combination of absolute positioning and the transform property with the translate function.
 
 This is an example of that:
 
